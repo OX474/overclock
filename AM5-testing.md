@@ -10,4 +10,4 @@
 | M_ORDERING | Auto | RELAXED | 12.65 | 1.76 | 8.54 | 7.65 |
 | MMCM_MULT_F | Auto | Enabled | 12.63 | 1.71 | 8.56 | 7.63 |
 | MMCM_MULT_F | Auto | Disabled | 12.60 | 1.71 | 8.49 | 7.60 |
-| Power Down Enable | Enabled | 12.54
+| Power Down Enable | Auto | Enabled | 12.54
