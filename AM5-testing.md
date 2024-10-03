@@ -4,4 +4,4 @@
 | IBUF_LPWR_MODE | Auto | Enabled | 12.49 | 1.71 | 8.49 | 7.56 |
 | IBUF_LPWR_MODE | Auto | Disabled | 12.60 | 1.71 | 8.52 | 7.61 |
 | ADDR_CMD_MODE | Auto | Buf | 12.63 | 1.74 | 8.49 | 7.62 |
-| ADDR_CMD_MODE | Auto | UnBuf | 12.58 
+| ADDR_CMD_MODE | Auto | UnBuf | 12.58 | 1.71
