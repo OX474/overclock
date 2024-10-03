@@ -8,4 +8,4 @@
 | M_ORDERING | Auto | NORM | 12.62 | 1.71 | 8.56 | 7.63 |
 | M_ORDERING | Auto | STRICT | 12.61 | 1.71 | 8.52 | 7.61
 | M_ORDERING | Auto | RELAXED | 12.65 | 1.76 | 8.54 | 7.65
-| MMCM_MULT_F | Auto | Enabled |
+| MMCM_MULT_F | Auto | Enabled | 12.63 | 1.71 | 8.56
