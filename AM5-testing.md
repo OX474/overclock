@@ -1,3 +1,4 @@
 | Setting name | Original value | New value | Processor Score | Memory Score | Graphics Score | Average Score |
 | ------------ | -------------- | --------- | --------------- | ------------ | -------------- | ------------- |
-| Stock        | N/A            | N/A       | 12.99           | 1.75         |
+| Stock        | N/A            | N/A       | 12.99           | 1.75         | 8.61           | 7.78          |
+| IBUF_LPWR_MODE | Auto | Enabled |
