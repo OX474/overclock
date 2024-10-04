@@ -1,4 +1,4 @@
-Discarded due to inadequate testing methology; Precision Boost was left enabled and the processor performance score variation is too high to accurately measure minimal differences. The new document uses a static core frequency along with an overclocked Infinity Fabric to mitigate bottlenecks caused by it.
+Discarded due to inadequate testing methology; Precision Boost was left enabled and the processor performance score variation is too high to accurately measure minimal differences. The new document uses a static core frequency for consistent performance along with an overclocked Infinity Fabric frequency to mitigate bottlenecks caused by it.
 
 | Setting name | Original value | New value | Processor Score | Memory Score | Graphics Score | Average Score |
 | ------------ | -------------- | --------- | --------------- | ------------ | -------------- | ------------- |
