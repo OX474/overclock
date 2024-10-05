@@ -7,4 +7,4 @@
 | ADDR_CMD_MODE | Auto | UnBuf | 12.93 | 1.75 | 8.54 |
 | M_ORDERING | Auto | NORM | 12.89 | 1.75 | 8.56 |
 | M_ORDERING | Auto | STRICT | 12.94 | 1.76 | 8.55
-| M_ORDERING | Auto | RELAXED | 13.14 | 1.82
+| M_ORDERING | Auto | RELAXED | 13.14 | 1.82 | 8.58
