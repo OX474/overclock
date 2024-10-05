@@ -16,3 +16,5 @@
 | MMCM_MULT_F | Auto | Disabled | 12.96 | 1.76 | 8.55 |
 | Power Down Enable | Auto | Enabled | 13.00 | 1.77 | 8.58
 | Power Down Enable + Memory Context Restore | Auto | Disabled | 12.93 | 1.77 | 8.54
+| FIFO Wr En Fine Delay | Auto | 0 | 12.99 | 1.75 | 8.53
+| FIFO Wr En Fine Delay | Auto | 1 | 
