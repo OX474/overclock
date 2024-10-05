@@ -19,4 +19,4 @@
 | FIFO Wr En Fine Delay | Auto | 0 | 12.99 | 1.75 | 8.53 |
 | FIFO Wr En Fine Delay | Auto | 1 | 12.94 | 1.76 | 8.58 |
 | POC Sample PD | Auto | Enabled | 12.98 | 1.75 | 8.62 |
-| POC Sample PD | Auto | Disabled | 
+| POC Sample PD | Auto | Disabled | 12.97 | 1.76 | 8.54 |
