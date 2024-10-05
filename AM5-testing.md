@@ -15,3 +15,4 @@
 | MMCM_MULT_F | Auto | Enabled | 12.96 | 1.75 | 8.54 |
 | MMCM_MULT_F | Auto | Disabled | 12.96 | 1.76 | 8.55 |
 | Power Down Enable | Auto | Enabled | 13.00 | 1.77 | 8.58
+| Power Down Enable + Memory Context Restore | Auto | Disabled | 12.93 | 1.77 | 8.54
