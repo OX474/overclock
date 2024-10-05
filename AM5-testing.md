@@ -13,4 +13,5 @@
 | MC_SVA_TRIM0~2 | Auto | 0, 0, 0 | 12.94 | 1.76 | 8.54 |
 | MC_SVA_TRIM0~2 | Auto | 255, 255, 255 | 12.96 | 1.76 | 8.55 |
 | MMCM_MULT_F | Auto | Enabled | 12.96 | 1.75 | 8.54 |
-| MMCM_MULT_F | Auto | Disabled | 12.96 | 1.76 | 8.55
+| MMCM_MULT_F | Auto | Disabled | 12.96 | 1.76 | 8.55 |
+| Power Down Enable | Auto | Enabled | 13.00 | 1.77 | 8.58
