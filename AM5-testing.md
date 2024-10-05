@@ -11,4 +11,5 @@
 | S_COL_WIDTH | Auto | 0 | 12.96 | 1.74 | 8.55 |
 | S_COL_WIDTH | Auto | 15 | 12.92 | 1.75 | 8.55 |
 | MC_SVA_TRIM0~2 | Auto | 0, 0, 0 | 12.94 | 1.76 | 8.54 |
-| MC_SVA_TRIM0~2 | Auto | 255, 255, 255 | 
+| MC_SVA_TRIM0~2 | Auto | 255, 255, 255 | 12.96 | 1.76 | 8.55 |
+| MMCM_MULT_F | Auto | Enabled 
