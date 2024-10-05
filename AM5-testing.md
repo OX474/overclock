@@ -20,4 +20,5 @@
 | FIFO Wr En Fine Delay | Auto | 1 | 12.94 | 1.76 | 8.58 |
 | POC Sample PD | Auto | Enabled | 12.98 | 1.75 | 8.62 |
 | POC Sample PD | Auto | Disabled | 12.97 | 1.76 | 8.54 |
-| Bank Swap Mode | Auto | Disabled | 12.90 | 
+| Bank Swap Mode | Auto | Disabled | 12.90 | 1.69 | 8.54 |
+| Bank Swap Mode | Auto | Swap CPU |
