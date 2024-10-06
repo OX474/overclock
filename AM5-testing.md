@@ -21,5 +21,5 @@
 | POC Sample PD | Auto | Enabled | 12.98 | 1.75 | 8.62 |
 | POC Sample PD | Auto | Disabled | 12.97 | 1.76 | 8.54 |
 | Bank Swap Mode | Auto | Disabled | 12.90 | 1.69 | 8.54 |
-| Bank Swap Mode | Auto | Swap CPU |
+| Bank Swap Mode | Auto | Swap CPU | 12.99 |
 | Bank Swap Mode | Auto | Swap APU | 
