@@ -23,3 +23,4 @@
 | Bank Swap Mode | Auto | Disabled | 12.90 | 1.69 | 8.54 |
 | Bank Swap Mode | Auto | Swap CPU | 12.99 | 1.75 | 8.54 |
 | Bank Swap Mode | Auto | Swap APU | 13.08 | 1.78 | 8.54 |
+| Combined | N/A | N/A | N/A | x | 1.80 | x |
